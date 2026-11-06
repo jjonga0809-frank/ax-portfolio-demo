@@ -1,0 +1,154 @@
+[
+  {
+    "id": "sample-01",
+    "title": "백엔드 개발자",
+    "company": "가상 기업 (교육용 예시)",
+    "category": "백엔드",
+    "source_type": "sample",
+    "source": "팀 제작 가상 공고",
+    "url": null,
+    "verified_at": null,
+    "deadline": null,
+    "duties": "REST API 설계 및 서버 개발",
+    "required": "Python, SQL",
+    "preferred": "Docker, Git",
+    "tags": [
+      "Python",
+      "SQL",
+      "Docker"
+    ]
+  },
+  {
+    "id": "sample-02",
+    "title": "프론트엔드 개발자",
+    "company": "가상 기업 (교육용 예시)",
+    "category": "프론트엔드",
+    "source_type": "sample",
+    "source": "팀 제작 가상 공고",
+    "url": null,
+    "verified_at": null,
+    "deadline": null,
+    "duties": "웹 UI와 컴포넌트 개발",
+    "required": "JavaScript, React",
+    "preferred": "TypeScript, Git",
+    "tags": [
+      "JavaScript",
+      "TypeScript",
+      "React"
+    ]
+  },
+  {
+    "id": "sample-03",
+    "title": "데이터 분석가",
+    "company": "가상 기업 (교육용 예시)",
+    "category": "데이터",
+    "source_type": "sample",
+    "source": "팀 제작 가상 공고",
+    "url": null,
+    "verified_at": null,
+    "deadline": null,
+    "duties": "데이터 정제 및 분석 보고서 작성",
+    "required": "Python, SQL",
+    "preferred": "Jupyter, 통계",
+    "tags": [
+      "Python",
+      "SQL",
+      "Jupyter"
+    ]
+  },
+  {
+    "id": "sample-04",
+    "title": "머신러닝 엔지니어",
+    "company": "가상 기업 (교육용 예시)",
+    "category": "AI",
+    "source_type": "sample",
+    "source": "팀 제작 가상 공고",
+    "url": null,
+    "verified_at": null,
+    "deadline": null,
+    "duties": "모델 학습 및 실험 재현",
+    "required": "Python, PyTorch",
+    "preferred": "Docker, Jupyter",
+    "tags": [
+      "Python",
+      "PyTorch",
+      "Docker"
+    ]
+  },
+  {
+    "id": "sample-05",
+    "title": "AI 응용 개발자",
+    "company": "가상 기업 (교육용 예시)",
+    "category": "AI",
+    "source_type": "sample",
+    "source": "팀 제작 가상 공고",
+    "url": null,
+    "verified_at": null,
+    "deadline": null,
+    "duties": "AI 기능을 포함한 웹서비스 개발",
+    "required": "Python, React",
+    "preferred": "SQL, Docker",
+    "tags": [
+      "Python",
+      "React",
+      "SQL"
+    ]
+  },
+  {
+    "id": "sample-06",
+    "title": "데이터 엔지니어",
+    "company": "가상 기업 (교육용 예시)",
+    "category": "데이터",
+    "source_type": "sample",
+    "source": "팀 제작 가상 공고",
+    "url": null,
+    "verified_at": null,
+    "deadline": null,
+    "duties": "데이터 파이프라인 구축",
+    "required": "Python, SQL",
+    "preferred": "Docker, Linux",
+    "tags": [
+      "Python",
+      "SQL",
+      "Docker"
+    ]
+  },
+  {
+    "id": "sample-07",
+    "title": "웹 풀스택 개발자",
+    "company": "가상 기업 (교육용 예시)",
+    "category": "풀스택",
+    "source_type": "sample",
+    "source": "팀 제작 가상 공고",
+    "url": null,
+    "verified_at": null,
+    "deadline": null,
+    "duties": "프론트엔드와 데이터 연동 개발",
+    "required": "TypeScript, React",
+    "preferred": "SQL, Docker",
+    "tags": [
+      "TypeScript",
+      "React",
+      "SQL"
+    ]
+  },
+  {
+    "id": "sample-08",
+    "title": "임베디드 소프트웨어 개발자",
+    "company": "가상 기업 (교육용 예시)",
+    "category": "임베디드",
+    "source_type": "sample",
+    "source": "팀 제작 가상 공고",
+    "url": null,
+    "verified_at": null,
+    "deadline": null,
+    "duties": "장치 제어 로직 구현과 테스트",
+    "required": "C, C++",
+    "preferred": "Python, Linux",
+    "tags": [
+      "Python",
+      "C",
+      "C++"
+    ]
+  }
+]
